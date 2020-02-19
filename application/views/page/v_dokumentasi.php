@@ -2,7 +2,7 @@
   <div class="container" style="margin-top: 100px">
 
     <!-- Page Heading/Breadcrumbs -->
-    <h1 class="mt-4 mb-3">Dokumentasi KAI
+    <h1 class="mt-4 mb-3">Portfolio KAI
       <small>Tahun <?= $_GET['tahun'] ?></small>
     </h1>
 

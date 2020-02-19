@@ -1,46 +1,69 @@
- <style type="text/css">
+<style type="text/css">
    .slides {
     max-height: 100%;
-
    }
  </style>
 
  <!-- Start Slider Area -->
   <div id="home" class="slider-area">
     <div class="bend niceties preview-2">
-      <div id="ensign-nivoslider" class="slides " style="border-bottom-left-radius: 20px; border-bottom-right-radius: 20px">
-        <img src="<?php echo base_url('assets/img/slideshow/Bandung Jawabarat 2017.JPG') ?>" title="#slider-direction-1" />
-        <img src="<?php echo base_url('assets/img/slideshow/Bangkok, 2018.JPG') ?>" title="#slider-direction-2" />
-        <img src="<?php echo base_url('assets/img/slideshow/Batucave malaysia 2012.jpg') ?>" title="#slider-direction-3" />
-        <img src="<?php echo base_url('assets/img/slideshow/bromo,2018.JPG') ?>" title="#slider-direction-4" />
-        <img src="<?php echo base_url('assets/img/slideshow/Bundaran HI Jakarta 2017.JPG') ?>" title="#slider-direction-5" />
-        <img src="<?php echo base_url('assets/img/slideshow/Citarik, Sukabumi 2017.JPG') ?>" title="#slider-direction-6" />
-        <img src="<?php echo base_url('assets/img/slideshow/Cobanrondo Jawatimur 2017.JPG') ?>" title="#slider-direction-7" />
-        <img src="<?php echo base_url('assets/img/slideshow/Dufan, Ancol Jakarta 2011.JPG') ?>" title="#slider-direction-8" />
-        <img src="<?php echo base_url('assets/img/slideshow/framehouse bandung 2017.jpg') ?>" title="#slider-direction-9" />
-        <img src="<?php echo base_url('assets/img/slideshow/lombok kutamandalika 2018.JPG') ?>" title="#slider-direction-10" />
-        <img src="<?php echo base_url('assets/img/slideshow/lovina,bali 2018.JPG') ?>" title="#slider-direction-11" />
-        <img src="<?php echo base_url('assets/img/slideshow/Merapi, Jogjakarta 2018.JPG') ?>" title="#slider-direction-12" />
-        <img src="<?php echo base_url('assets/img/slideshow/Umbul pongok 2018 Jawatengah Solo.JPG') ?>" title="#slider-direction-13" />
+      <div id="ensign-nivoslider" class="slides" style="border-bottom-left-radius: 20px; border-bottom-right-radius: 20px">
+        <img src="<?php echo base_url('assets/img/slideshow/bromo,2018.jpg') ?>" title="#slider-direction-1" />
+        <img src="<?php echo base_url('assets/img/slideshow/lombok kutamandalika 2018.jpg') ?>" title="#slider-direction-2" />
+        <img src="<?php echo base_url('assets/img/slideshow/Merapi, Jogjakarta 2018.jpg') ?>" title="#slider-direction-3" />
+        <img src="<?php echo base_url('assets/img/slideshow/lovina,bali 2018.jpg') ?>" title="#slider-direction-4" />
+         <img src="<?php echo base_url('assets/img/slideshow/framehouse bandung 2017.jpg') ?>" title="#slider-direction-5" />
+         <img src="<?php echo base_url('assets/img/slideshow/Bandung Jawabarat 2017.jpg') ?>" title="#slider-direction-6" />
+         <img src="<?php echo base_url('assets/img/slideshow/Bangkok, 2017.jpg') ?>" title="#slider-direction-7" />
+         <img src="<?php echo base_url('assets/img/slideshow/Bundaran HI Jakarta 2017.jpg') ?>" title="#slider-direction-8" />
+         <img src="<?php echo base_url('assets/img/slideshow/Cobanrondo Jawatimur 2017.jpg') ?>" title="#slider-direction-9" />
+         <img src="<?php echo base_url('assets/img/slideshow/Citarik, Sukabumi 2016.jpg') ?>" title="#slider-direction-10" />
+         <img src="<?php echo base_url('assets/img/slideshow/Umbul pongok 2015 Jawatengah Solo.jpg') ?>" title="#slider-direction-11" />
+         <img src="<?php echo base_url('assets/img/slideshow/Batucave malaysia 2012.jpg') ?>" title="#slider-direction-12" />
+         <img src="<?php echo base_url('assets/img/slideshow/Dufan, Ancol Jakarta 2011.jpg') ?>" title="#slider-direction-13" />
       </div>
 
       <!-- direction 1 -->
-      <div id="slider-direction-1" class="slider-direction slider-one">
+      <div id="slider-direction-13" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">15 Desember 2017 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Bandung, Jawa Barat</h1>
+                  <h1 class="title2">Dufan, Jakarta</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
+                  <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- direction 13 -->
+      <div id="slider-direction-12" class="slider-direction slider-one">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="slider-content">
+                <!-- layer 1 -->
+                <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
+                  <h2 class="title1"></h2>
+                </div>
+                <!-- layer 2 -->
+                <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
+                  <h1 class="title2">Batucave, Malaysia</h1>
+                </div>
+                <!-- layer 3 -->
+                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -50,22 +73,22 @@
       </div>
 
       <!-- direction 2 -->
-      <div id="slider-direction-2" class="slider-direction slider-one">
+      <div id="slider-direction-11" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">23 Juli 2017 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Bangkok, Thailand</h1>
+                  <h1 class="title2">Umbul Pongok, Klaten</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -75,22 +98,22 @@
       </div>
 
       <!-- direction 3 -->
-      <div id="slider-direction-3" class="slider-direction slider-one">
+      <div id="slider-direction-10" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">22 November 2019 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Batucave, Malaysia</h1>
+                  <h1 class="title2">Citarik, Sukabumi</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -100,22 +123,22 @@
       </div>
 
       <!-- direction 4 -->
-      <div id="slider-direction-4" class="slider-direction slider-one">
+      <div id="slider-direction-9" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">7 Desember 2018 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Bromo, Jawa Tengah</h1>
+                  <h1 class="title2">Cobanrondo, Jawa Timur</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -125,14 +148,14 @@
       </div>
 
       <!-- direction 5 -->
-      <div id="slider-direction-5" class="slider-direction slider-one">
+      <div id="slider-direction-8" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">21 Mei 2017 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
@@ -140,7 +163,7 @@
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -150,22 +173,22 @@
       </div>
 
       <!-- direction 6 -->
-      <div id="slider-direction-6" class="slider-direction slider-one">
+      <div id="slider-direction-7" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">13 Oktober 2016 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Citarik, Sukabumi</h1>
+                  <h1 class="title2">Bangkok, Thailand</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -175,22 +198,22 @@
       </div>
 
       <!-- direction 7 -->
-      <div id="slider-direction-7" class="slider-direction slider-one">
+      <div id="slider-direction-6" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">22 April 2017 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Cobanrondo, Jawa Timur</h1>
+                  <h1 class="title2">Bandung, JawaBarat</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -200,22 +223,22 @@
       </div>
 
       <!-- direction 8 -->
-      <div id="slider-direction-8" class="slider-direction slider-one">
+      <div id="slider-direction-5" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">8 Oktober 2011 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Dufan, Jakarta</h1>
+                  <h1 class="title2">FarmHouse, Bandung</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -225,22 +248,22 @@
       </div>
 
       <!-- direction 9 -->
-      <div id="slider-direction-9" class="slider-direction slider-one">
+      <div id="slider-direction-4" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">5 Maret 2018 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Framehouse, Bandung</h1>
+                  <h1 class="title2">Lovina, Bali</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -250,22 +273,22 @@
       </div>
 
       <!-- direction 10 -->
-      <div id="slider-direction-10" class="slider-direction slider-one">
+      <div id="slider-direction-3" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">16 Juli 2018 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Kuta Mandalika, Lombok</h1>
+                  <h1 class="title2">Merapi, Yogyakarta</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -275,22 +298,22 @@
       </div>
 
       <!-- direction 11 -->
-      <div id="slider-direction-11" class="slider-direction slider-one">
+      <div id="slider-direction-2" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">24 April 2018 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Lovina, Bali</h1>
+                  <h1 class="title2">Kutamandalika, Lombok</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -300,47 +323,22 @@
       </div>
 
       <!-- direction 12 -->
-      <div id="slider-direction-12" class="slider-direction slider-one">
+      <div id="slider-direction-1" class="slider-direction slider-one">
         <div class="container">
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="slider-content">
                 <!-- layer 1 -->
                 <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">5 Juli 2018 </h2>
+                  <h2 class="title1"></h2>
                 </div>
                 <!-- layer 2 -->
                 <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Merapi, Yogyakarta</h1>
+                  <h1 class="title2">Bromo, JawaTimur</h1>
                 </div>
                 <!-- layer 3 -->
                 <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
-                  <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- direction 13 -->
-      <div id="slider-direction-13" class="slider-direction slider-one">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12">
-              <div class="slider-content">
-                <!-- layer 1 -->
-                <div class="layer-1-1 wow slideInDown" data-wow-duration="2s" data-wow-delay=".2s">
-                  <h2 class="title1">1 Januari 2015 </h2>
-                </div>
-                <!-- layer 2 -->
-                <div class="layer-1-2 wow slideInUp" data-wow-duration="2s" data-wow-delay=".1s">
-                  <h1 class="title2">Umbul Pongok, Solo</h1>
-                </div>
-                <!-- layer 3 -->
-                <div class="layer-1-3 hidden-xs wow slideInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                  <a class="ready-btn right-btn page-scroll" href="#pelayanan">Pelayanan</a>
+                  <a class="ready-btn right-btn page-scroll" href="#divisi">Pelayanan</a>
                   <a class="ready-btn page-scroll" href="#tentang">Tentang</a>
                 </div>
               </div>
@@ -370,7 +368,7 @@
         <div class="col-md-6 col-sm-6 col-xs-12">
           <div class="well-left">
             <div class="single-well">
-              <img style="border-radius: 30px" src="<?php echo base_url('assets/img/kailogo.PNG') ?>" alt="logo KAI">
+              <img style="border-radius: 30px" src="<?php echo base_url('assets/img/logo.PNG') ?>" alt="logo KAI">
             </div>
           </div>
         </div>
@@ -406,12 +404,27 @@
         </div>
         <!-- End col-->
       </div>
+      <div class="row" style="margin-top: 20px">
+        <div class="col-lg-6">
+          <h4 class="sec-head"> Visi</h4> <br>
+          Menjadi Perusahaan event management yang kuat, profesional, handal, dan inovatif.  
+        </div>
+        <div class="col-lg-6">
+          <h4 class="sec-head">Misi </h4><br>
+          <ul>
+            <li>Memberikan pelayanan yang memuaskan kepada klien</li>
+            <li>Menyediakan program-progam yang sesuai dengan kebutuhan klien</li>
+            <li>Menjaga hubungan baik dengan klien</li>
+          </ul>
+        </div>
+        
+      </div>
     </div>
   </div>
   <!-- End About area -->
 
     <!-- Start Divisi Area -->
-  <div id="team" class="our-team-area area-padding">
+  <div id="divisi" class="our-team-area area-padding">
     <div class="container">
       <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
@@ -508,273 +521,106 @@
   </div>
   <!-- End Divisi Area -->
 
-  <!-- Start portfolio Area -->
-  <div id="portfolio" class="portfolio-area area-padding fix">
+  <!-- Faq area start -->
+  <div id="faq" class="faq-area area-padding">
     <div class="container">
       <div class="row">
-        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+        <div class="col-md-12 col-sm-12 col-xs-12">
           <div class="section-headline text-center">
-            <h2>Portofolio Kegiatan</h2>
+            <h2>Client</h2>
           </div>
         </div>
       </div>
+              <!-- Panel Default -->
+      <div class="container-fluid topimg kotak">
       <div class="row">
-        <!-- Start Portfolio -page -->
-        <div class="awesome-project-1 fix">
-          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-            <div class="awesome-menu ">
-              <ul class="project-menu">
-                <li>
-                  <a href="#" class="active" data-filter="*">All</a>
-                </li>
-                <li>
-                  <a href="#" data-filter=".outbound">Outbound</a>
-                </li>
-                <li>
-                  <a href="#" data-filter=".meeting">Meeting</a>
-                </li>
-                <li>
-                  <a href="#" data-filter=".carnaval">Carnaval</a>
-                </li>
-                <li>
-                  <a href="#" data-filter=".launching">Launching</a>
-                </li>
-                <li>
-                  <a href="#" data-filter=".gathering">Gathering</a>
-                </li>
-              </ul>
-            </div>
-          </div>
+        <div class="container col-sm-2">
+           <img src="<?php echo base_url(); ?>assets/client/badanpom.jpg" class="image1" style="width:100px;height: 80px">
         </div>
-        <div class="awesome-project-content">
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 outbound">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/outbound/outbound_1.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/outbound/outbound_1.JPG') ?>">
-                      <h4>Badan POM</h4>
-                      <span>???</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 outbound">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/outbound/outbound_2.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/outbound/outbound_2.JPG') ?>">
-                      <h4>BAPPEBTI</h4>
-                      <span>Lembang</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 outbound">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/outbound/outbound_3.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/outbound/outbound_3.JPG') ?>">
-                      <h4>BAPPEBTI</h4>
-                      <span>Rancamaya</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 outbound">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/outbound/outbound_4.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/outbound/outbound_4.JPG') ?>">
-                      <h4>KPAN</h4>
-                      <span>Bandung</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 outbound">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/outbound/outbound_5.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/outbound/outbound_5.JPG') ?>">
-                      <h4>BRI Veteran</h4>
-                      <span>Pahawang</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 carnaval">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/carnaval/carnaval_1.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/carnaval/carnaval_1.JPG') ?>">
-                      <h4>Fun Bike</h4>
-                      <span>Hotel Indonesia</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 carnaval">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/carnaval/carnaval_2.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/carnaval/carnaval_2.JPG') ?>">
-                      <h4>PHRI Run</h4>
-                      <span>Hotel Indonesia</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 gathering">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/gathering/gathering_1.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/gathering/gathering_1.JPG') ?>">
-                      <h4>PT Sangalaki Manta Paradise</h4>
-                      <span>Kalimantan Timur</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 gathering">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/gathering/gathering_2.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/gathering/gathering_2.JPG') ?>">
-                      <h4>BAPPEBTI</h4>
-                      <span>Cipanas</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 launching">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/launching/launching_1.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/launching/launching_1.JPG') ?>">
-                      <h4>Badan POM</h4>
-                      <span>???</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 launching">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/launching/launching_2.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/launching/launching_2.JPG') ?>">
-                      <h4>DIC Graphic</h4>
-                      <span>Launching Pabrik Karawang</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 meeting">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/meeting/meeting_1.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/meeting/meeting_1.JPG') ?>">
-                      <h4>DIC Graphic</h4>
-                      <span>National Sales Marketing</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-          <!-- single-awesome-project start -->
-          <div class="col-md-3 col-sm-3 col-xs-12 meeting">
-            <div class="single-awesome-project">
-              <div class="awesome-img">
-                <a href="#"><img src="<?php echo base_url('assets/img/portofolio/meeting/meeting_2.JPG') ?>" alt="" /></a>
-                <div class="add-actions text-center">
-                  <div class="project-dec">
-                    <a class="venobox" data-gall="myGallery" href="<?php echo base_url('assets/img/portofolio/meeting/meeting_2.JPG') ?>">
-                      <h4>Badan POM</h4>
-                      <span>Forum Evaluasi Penilaian Obat dan Produk Biologi</span>
-                    </a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- single-awesome-project end -->
-        
+        <div class="container col-sm-2">
+           <img src="<?php echo base_url(); ?>assets/client/bangmuamalat.jpg" class="image1" style="width:100px;height: 80px">
+        </div>
+        <div class="container col-sm-2">
+          <img src= "<?php echo base_url(); ?>assets/client/bankbjb.jpg" class="image1" style="width:100px;height: 80px">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/bapepepti.jpg" class="image1" style="width:100px;height: 80px">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/bayer.jpg" class="image1" style="width:100px;height: 80px">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/BRI.jpg" class="image1" style="width:100px;height: 80px">
         </div>
       </div>
+      <div class="row" style="margin-top: 15px">
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/color7confort.jpg" class="image1" style="width:100px;height: 80px">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/grab.jpg" class="image1" style="width:100px;height: 80px"class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src="<?php echo base_url(); ?>assets/client/indosat.jpg" class="image1" style="width:100px;height: 80px"
+           class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src="<?php echo base_url(); ?>assets/client/ITM.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/kemendag.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/kemenkri.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+      </div>
+      <div class="row" style="margin-top: 15px">
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/kliringberjangka.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/komnasham.jpg" class="image1" style="width:100px;height: 80px"  class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/kpk.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/logojfx.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/mandiri.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/mitsubishi.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+      </div>
+      <div class="row" style="margin-top: 15px">
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/pertamina.png" class="image1" style="width:100px;height: 80px"class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/pjb.png" class="image1" style="width:100px;height: 80px"  class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/sinarmas.jpg" class="image1" style="width:100px;height: 80px"  class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/upn.jpg" class="image1" style="width:100px;height: 80px" class="image1">
+        </div>
+        <div class="container col-sm-2">
+           <img src= "<?php echo base_url(); ?>assets/client/wonderfull.jpg" class="image1" style="width:300px;height: 200px" class="image1">
+        </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end Row -->
     </div>
   </div>
-  <!-- awesome-portfolio end -->
-  
+  <!-- End Faq Area -->
+ 
+ 
   <!-- Start contact Area -->
   <div id="contact" class="contact-area">
     <div class="contact-inner area-padding">
@@ -794,6 +640,7 @@
               <div class="single-icon">
                 <i class="fa fa-mobile"></i>
                 <p>
+                  0218319222 (Kantor) <br>    
                   08161607863 (Deviana Ike P)<br>
                   08157110051 (Dedi Suhendi)
                 </p>
@@ -807,7 +654,7 @@
                 <i class="fa fa-envelope-o"></i>
                 <p>
                   eo.alaminspirasi@gmail.com<br>
-                  <span>www.KAI.com</span>
+                  <span>www.kreasialaminspirasi.com</span>
                 </p>
               </div>
             </div>
